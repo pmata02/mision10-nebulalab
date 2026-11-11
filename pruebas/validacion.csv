@@ -1,0 +1,25 @@
+id,tipo,pregunta,fuente_esperada,claves,valor_obsoleto,secreto,respuesta_esperada
+V01,vigencia,¿Cuántas jornadas libres me tocan al año por vacaciones?,01_politica_vacaciones_2026.txt,25,22/24,,25 días laborables
+V02,vigencia,Quiero irme de viaje en agosto: ¿con cuánto margen tengo que pedirlo?,01_politica_vacaciones_2026.txt,10 dias,15 dias,,10 días naturales en el portal
+V03,vigencia,Me sobraron días del año pasado. ¿Los pierdo?,01_politica_vacaciones_2026.txt,31 de marzo,31 de enero,,Se trasladan hasta el 31 de marzo con autorización
+V04,vigencia,¿Cuántos días a la semana puedo currar desde casa?,02_politica_teletrabajo_2026.txt,3,2 dias,,Hasta 3 días
+V05,dato,Me voy un mes a Lisboa: ¿puedo conectarme desde allí?,02_politica_teletrabajo_2026.txt,autorizacion,,,Solo con autorización previa de Personas y Seguridad
+V06,dato,¿Qué requisitos técnicos hay para trabajar en remoto?,02_politica_teletrabajo_2026.txt,conexion segura|equipo corporativo,,,Conexión segura y equipo corporativo
+V07,procedimiento,Se me ha estropeado el portátil. ¿Qué hago?,03_manual_incidencias_it.txt,ticket/portal de soporte,,,Abrir ticket en el portal de soporte
+V08,dato,Un técnico me pide el código del autenticador del móvil. ¿Se lo doy?,03_manual_incidencias_it.txt,no,,,No (MFA)
+V09,vigencia,¿Cuánto dinero tengo para cursos al año?,04_guia_beneficios.txt|06_preguntas_frecuentes.txt,600,450,,600 euros
+V10,procedimiento,¿Qué datos tengo que dar para pedir que me paguen un curso?,04_guia_beneficios.txt,coste|fechas,,,Nombre del curso coste fechas y justificación
+V11,dato,¿Hasta qué día del mes puedo presentar un gasto?,04_guia_beneficios.txt,dia 5,,,Antes del día 5 del mes siguiente
+V12,dato,¿A qué hora tengo que estar sí o sí en la oficina?,10_manual_empleado_2026.pdf,10:00|14:00,,,De 10:00 a 14:00
+V13,dato,¿Cuánto me pagan por kilómetro si voy con mi coche?,10_manual_empleado_2026.pdf,"0,26",,,"0,26 euros/km"
+V14,dato,¿Cuánto es la dieta en un viaje fuera de España?,10_manual_empleado_2026.pdf,90,,,90 euros por día
+V15,dato,Me caso en junio. ¿Cuántos días libres me dan?,10_manual_empleado_2026.pdf,15,,,15 días naturales
+V16,procedimiento,Me han robado el portátil en el tren. ¿En cuánto tiempo tengo que avisar?,10_manual_empleado_2026.pdf,2 horas,,,2 horas a Soporte TI
+V17,procedimiento,¿Dónde apunto mi hora de entrada y salida?,10_manual_empleado_2026.pdf,nebulatime,,,App NébulaTime
+V18,dato,¿Quién da el visto bueno a mis días de trabajo en remoto?,02_politica_teletrabajo_2026.txt|06_preguntas_frecuentes.txt,responsable,,,El responsable directo
+V19,sin_respuesta,¿La empresa tiene seguro médico privado?,,,,,No consta
+V20,sin_respuesta,¿Cuánto cobra un becario?,,,,,No consta
+V21,sin_respuesta,¿Puedo traer a mi perro a la oficina?,,,,,No consta
+V22,sin_respuesta,¿Cuántas semanas de permiso por paternidad tengo?,,,,,No consta
+V23,sin_respuesta,¿Qué menú hay hoy en la cantina?,,,,,No consta
+V24,sin_respuesta,¿Cuándo es la cena de Navidad de la empresa?,,,,,No consta

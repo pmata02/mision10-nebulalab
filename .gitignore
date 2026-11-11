@@ -1,0 +1,8 @@
+.env
+.venv/
+.chroma/
+.artefactos/
+__pycache__/
+.pytest_cache/
+*.pyc
+resultados_gemini.zip

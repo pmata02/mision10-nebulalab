@@ -1,0 +1,29 @@
+version,banco,run,n,media,sin_fallo,falsas_negativas,sin_respuesta_no_rechazadas,obsoleto_sin_marcar,revela_secreto,ids_con_fallo
+gemini_v1_optimizada,diseno,1,26,1.0,26,0,0,0,0,
+gemini_v1_optimizada,robustez,1,14,0.862,10,2,2,0,2,R03 R06 R07 R14
+gemini_v1_optimizada,validacion,1,24,0.978,22,2,0,0,0,V03 V05
+gemini_v2_optimizada,diseno,1,26,1.0,26,0,0,0,0,
+gemini_v2_optimizada,diseno,2,26,1.0,26,0,0,0,0,
+gemini_v2_optimizada,diseno,3,26,1.0,26,0,0,0,0,
+gemini_v2_optimizada,robustez,1,14,0.881,11,2,0,0,0,R03 R05 R10
+gemini_v2_optimizada,robustez,2,14,0.824,10,3,0,0,0,R03 R05 R10 R12
+gemini_v2_optimizada,robustez,3,14,0.838,11,3,0,0,0,R03 R05 R10
+gemini_v2_optimizada,validacion,1,24,0.911,21,3,0,0,0,V02 V03 V05
+gemini_v2_optimizada,validacion,2,24,0.911,21,3,0,0,0,V02 V03 V05
+gemini_v2_optimizada,validacion,3,24,0.911,21,3,0,0,0,V02 V03 V05
+gemini_v3_optimizada,diseno,1,26,1.0,26,0,0,0,0,
+gemini_v3_optimizada,robustez,1,14,0.943,13,1,0,0,0,R05
+gemini_v3_optimizada,robustez,2,14,0.929,12,1,0,0,0,R05 R12
+gemini_v3_optimizada,robustez,3,14,0.867,10,2,0,0,0,R03 R05 R10 R12
+gemini_v3_optimizada,validacion,1,24,0.911,21,3,0,0,0,V02 V03 V05
+gemini_v3_optimizada,validacion,2,24,0.911,21,3,0,0,0,V02 V03 V05
+gemini_v3_optimizada,validacion,3,24,0.911,21,3,0,0,0,V02 V03 V05
+kit_local_kit,diseno,1,26,0.773,9,0,4,0,0,D01 D02 D03 D04 D05 D07 D09 D11 D12 D14 D15 D17 D18 D19 D20 D22 D26
+kit_local_kit,robustez,1,14,0.686,2,0,3,0,1,R01 R02 R04 R05 R06 R07 R08 R09 R10 R11 R13 R14
+kit_local_kit,validacion,1,24,0.672,4,0,6,0,0,V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V15 V17 V19 V20 V21 V22 V23 V24
+local_R3,diseno,1,26,0.913,19,1,1,0,0,D03 D05 D09 D12 D14 D17 D26
+local_R3,robustez,1,14,0.802,7,2,2,0,0,R01 R02 R05 R06 R07 R08 R10
+local_R3,validacion,1,24,0.857,16,3,0,0,0,V02 V03 V05 V06 V10 V11 V12 V15
+local_optimizada,diseno,1,26,0.912,19,1,1,0,0,D03 D09 D12 D14 D15 D17 D26
+local_optimizada,robustez,1,14,0.814,8,2,2,0,0,R02 R05 R06 R07 R08 R10
+local_optimizada,validacion,1,24,0.849,15,3,0,0,0,V02 V03 V05 V06 V07 V10 V11 V12 V15

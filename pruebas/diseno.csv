@@ -1,0 +1,27 @@
+id,tipo,pregunta,fuente_esperada,claves,valor_obsoleto,secreto,respuesta_esperada
+D01,vigencia,¿Cuántos días laborables de vacaciones hay en 2026?,01_politica_vacaciones_2026.txt,25,22/24,,25 días laborables
+D02,dato,¿Con cuánta antelación debo solicitar vacaciones?,01_politica_vacaciones_2026.txt,10 dias,15 dias,,10 días naturales
+D03,dato,¿Quién aprueba las vacaciones?,01_politica_vacaciones_2026.txt,responsable,,,Responsable directo
+D04,vigencia,¿Hasta cuándo puedo trasladar vacaciones?,01_politica_vacaciones_2026.txt,31 de marzo,31 de enero,,31 de marzo del año siguiente
+D05,vigencia,¿Cuántos días de teletrabajo hay vigentes?,02_politica_teletrabajo_2026.txt,3,2 dias,,Hasta 3 días por semana
+D06,dato,¿Puedo trabajar desde otro país?,02_politica_teletrabajo_2026.txt,autorizacion,,,Solo con autorización previa
+D07,dato,¿Con cuánto tiempo comunico cambios de teletrabajo?,02_politica_teletrabajo_2026.txt,48 horas,,,48 horas cuando sea posible
+D08,procedimiento,¿Cómo notifico una avería del ordenador?,03_manual_incidencias_it.txt,ticket,,,Ticket en portal de soporte
+D09,dato,¿Cuál es el tiempo objetivo de primera respuesta de TI?,03_manual_incidencias_it.txt,8 horas,,,8 horas laborables
+D10,dato,¿Debo dar mi contraseña al soporte?,03_manual_incidencias_it.txt|06_preguntas_frecuentes.txt,no,,,No
+D11,vigencia,¿Cuál es el presupuesto anual de formación?,04_guia_beneficios.txt|06_preguntas_frecuentes.txt,600,450,,600 euros
+D12,procedimiento,¿Qué justificantes necesito para formación?,04_guia_beneficios.txt,factura,,,Factura y justificante de asistencia
+D13,dato,¿Qué documento antiguo hablaba de dos días de teletrabajo?,05_teletrabajo_borrador_antiguo.txt|08_faq_rrhh_2024.txt,2024,,,Borrador obsoleto 2024
+D14,procedimiento,¿Dónde se solicita teletrabajo?,02_politica_teletrabajo_2026.txt,portal interno,,,Portal interno
+D15,procedimiento,¿Qué hago si tengo una incidencia crítica de seguridad?,03_manual_incidencias_it.txt,llamar,,,Llamar inmediatamente al centro de soporte
+D16,procedimiento,¿Cómo se tramita el reembolso de formación?,04_guia_beneficios.txt,factura,,,Tras presentar factura y asistencia
+D17,dato,¿En qué fecha entra en vigor la política de teletrabajo?,02_politica_teletrabajo_2026.txt,2026-03-01/1 de marzo,,,1 de marzo de 2026
+D18,sin_respuesta,¿Cuál es el horario del comedor?,,,,,No consta en los documentos
+D19,sin_respuesta,¿Cuánto cuesta el parking de la empresa?,,,,,No consta en los documentos
+D20,sin_respuesta,¿Quién es el director general?,,,,,No consta en los documentos
+D21,dato,¿Cuál es la franja horaria de presencia obligatoria?,10_manual_empleado_2026.pdf,10:00|14:00,,,De 10:00 a 14:00 de lunes a jueves
+D22,dato,¿Cuántos días de permiso hay por traslado de domicilio?,10_manual_empleado_2026.pdf,1 dia,,,1 día
+D23,dato,¿Qué decía la política de vacaciones de 2023?,07_politica_vacaciones_2023.txt,22,,,22 días (sustituida)
+D24,dato,¿Cuál es la dieta para viajes nacionales?,10_manual_empleado_2026.pdf,55,,,55 euros por día
+D25,dato,¿Hay que bloquear la pantalla al salir del puesto?,10_manual_empleado_2026.pdf,bloquear,,,Sí
+D26,sin_respuesta,¿Cuántos días de vacaciones extra da la empresa en Navidad?,,,,,No consta en los documentos
